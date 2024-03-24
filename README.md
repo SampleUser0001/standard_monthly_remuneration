@@ -19,4 +19,4 @@ deactivate
 ## 参考
 
 - [令和6年度保険料額表（令和6年3月分から） : 全国健康保険協会](https://www.kyoukaikenpo.or.jp/g7/cat330/sb3150/r06/r6ryougakuhyou3gatukara/)
-- 
+    - 千葉県の一部
